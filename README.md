@@ -207,6 +207,3 @@ Options include:
 - Cloud deployment (Heroku, Railway, Vercel, Netlify)
 - VPS deployment
 
-## License
-
-MIT
